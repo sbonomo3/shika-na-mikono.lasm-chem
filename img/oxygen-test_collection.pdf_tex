@@ -36,17 +36,16 @@
   }
   \providecommand\rotatebox[2]{#2}
   \ifx\svgwidth\undefined
-    \setlength{\unitlength}{2565.29746094pt}
+    \setlength{\unitlength}{2637.74433594pt}
   \else
     \setlength{\unitlength}{\svgwidth}
   \fi
   \global\let\svgwidth\undefined
   \makeatother
-  \begin{picture}(1,0.57672112)%
+  \begin{picture}(1,0.52317431)%
     \put(0,0){\includegraphics[width=\unitlength]{oxygen-test_collection.pdf}}%
-    \put(0.65905346,0.33400568){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\ce{O2}$_{(g)}$}}}%
-    \put(0.89296441,0.3484054){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\ce{O2}$_{(g)}$}}}%
-    \put(0.25640307,0.03851249){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Mixture of}}}%
-    \put(0.2651252,0.00294191){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{\ce{MnO2}$_{(l)}$ \& \ce{H2O2}$_{(l)}$}}}%
+    \put(0.66841771,0.28712516){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\ce{O2}$_{(g)}$}}}%
+    \put(0.89590419,0.30112938){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\ce{O2}$_{(g)}$}}}%
+    \put(-0.01221852,0.05426067){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.29794083\unitlength}\raggedleft Mixture of \ce{MnO2}$_{(l)}$ \& \ce{H2O2}$_{(l)}$ \end{minipage}}}%
   \end{picture}%
 \endgroup

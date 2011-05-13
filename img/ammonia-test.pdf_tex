@@ -36,20 +36,18 @@
   }
   \providecommand\rotatebox[2]{#2}
   \ifx\svgwidth\undefined
-    \setlength{\unitlength}{1435.44785156pt}
+    \setlength{\unitlength}{1585.62923173pt}
   \else
     \setlength{\unitlength}{\svgwidth}
   \fi
   \global\let\svgwidth\undefined
   \makeatother
-  \begin{picture}(1,0.83593025)%
+  \begin{picture}(1,0.75675593)%
     \put(0,0){\includegraphics[width=\unitlength]{ammonia-test.pdf}}%
-    \put(0.24082149,0.47383302){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Sulphate of Ammonia}}}%
-    \put(0.85028627,0.18333006){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Concentrated
-\ce{HCl}}}}%
-    \put(0.81464585,0.45650424){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Straw}}}%
-    \put(0.54896263,0.38633801){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Light bulb}}}%
-    \put(0.67716875,0.47939225){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\ce{HCl}}}}%
-    \put(0.17694826,0.4305098){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{\& Caustic Soda}}}%
+    \put(0.83379087,0.4132669){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Straw}}}%
+    \put(0.59327159,0.3497464){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Light bulb}}}%
+    \put(0.70933479,0.43398709){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\ce{HCl}}}}%
+    \put(-0.05762772,0.45317365){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.38424427\unitlength}\raggedleft Sulphate of Ammonia \& Caustic Soda\end{minipage}}}%
+    \put(0.85973779,0.19798851){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.15545762\unitlength}\raggedright Concentrated \ce{HCl}\end{minipage}}}%
   \end{picture}%
 \endgroup

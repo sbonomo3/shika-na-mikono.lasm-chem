@@ -36,22 +36,22 @@
   }
   \providecommand\rotatebox[2]{#2}
   \ifx\svgwidth\undefined
-    \setlength{\unitlength}{2526.88535156pt}
+    \setlength{\unitlength}{2627.52851563pt}
   \else
     \setlength{\unitlength}{\svgwidth}
   \fi
   \global\let\svgwidth\undefined
   \makeatother
-  \begin{picture}(1,0.51591347)%
+  \begin{picture}(1,0.50874436)%
     \put(0,0){\includegraphics[width=\unitlength]{nitrogen-prep.pdf}}%
-    \put(0.10581675,0.4489225){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Water (to displace air)}}}%
-    \put(0.46696108,0.27870874){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Copper Foil}}}%
-    \put(0.45683809,0.18721509){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Glass Tube}}}%
-    \put(0.52100647,-0.00749688){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Battery Acid}}}%
-    \put(0.9196701,0.11127002){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Nitrogen Gas}}}%
-    \put(0.85090067,0.31060181){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{IV Clip}}}%
-    \put(0.48113015,-0.01291433){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Kerosene Stove}}}%
-    \put(0.03450517,0.33551827){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{IV Tube}}}%
-    \put(0.06997148,0.25407347){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{6~L Water Bottle}}}%
+    \put(0.13835436,0.44431937){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Water (to displace air)}}}%
+    \put(0.47226903,0.28549687){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Copper Foil}}}%
+    \put(0.4759304,0.19263624){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Glass Tube}}}%
+    \put(0.53764092,0.00538239){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Battery Acid}}}%
+    \put(0.9210344,0.11960012){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Nitrogen Gas}}}%
+    \put(0.85489907,0.31129683){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{IV Clip}}}%
+    \put(0.499292,0.00017245){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Kerosene Stove}}}%
+    \put(0.06977425,0.33525891){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{IV Tube}}}%
+    \put(0.10388208,0.25693372){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{6~L Water Bottle}}}%
   \end{picture}%
 \endgroup

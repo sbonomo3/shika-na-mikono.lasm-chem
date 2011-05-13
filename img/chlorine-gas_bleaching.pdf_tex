@@ -36,15 +36,14 @@
   }
   \providecommand\rotatebox[2]{#2}
   \ifx\svgwidth\undefined
-    \setlength{\unitlength}{1142.77001953pt}
+    \setlength{\unitlength}{1257.721875pt}
   \else
     \setlength{\unitlength}{\svgwidth}
   \fi
   \global\let\svgwidth\undefined
   \makeatother
-  \begin{picture}(1,1.27541904)%
+  \begin{picture}(1,1.15884971)%
     \put(0,0){\includegraphics[width=\unitlength]{chlorine-gas_bleaching.pdf}}%
-    \put(0.74893789,0.20268297){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Jik \& Battery Acid}}}%
-    \put(0.74893798,0.15580597){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Mixture}}}%
+    \put(0.66701234,0.2397706){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.48959156\unitlength}\raggedright Jik \& Battery Acid Mixture\end{minipage}}}%
   \end{picture}%
 \endgroup

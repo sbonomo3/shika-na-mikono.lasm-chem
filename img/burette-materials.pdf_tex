@@ -36,21 +36,19 @@
   }
   \providecommand\rotatebox[2]{#2}
   \ifx\svgwidth\undefined
-    \setlength{\unitlength}{662.78168945pt}
+    \setlength{\unitlength}{646.2535514pt}
   \else
     \setlength{\unitlength}{\svgwidth}
   \fi
   \global\let\svgwidth\undefined
   \makeatother
-  \begin{picture}(1,1.11913124)%
+  \begin{picture}(1,1.14775338)%
     \put(0,0){\includegraphics[width=\unitlength]{burette-materials.pdf}}%
-    \put(0.25753061,0.65807874){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Syringe}}}%
-    \put(0.32580138,0.58836995){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{(20--60~mL)}}}%
-    \put(0.60332169,0.93996604){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Plunger}}}%
-    \put(0.61366768,0.72614849){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Syringe~Tube}}}%
-    \put(0.39004641,0.26736243){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Syringe~Needle}}}%
-    \put(0.30121138,0.20661158){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{\&~Cover}}}%
-    \put(0.75252894,0.49779688){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{IV~Tube}}}%
-    \put(0.82375416,0.10396345){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{IV~Clip}}}%
+    \put(0.59317654,0.96400596){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Plunger}}}%
+    \put(0.60378713,0.74471996){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Syringe~Tube}}}%
+    \put(0.74619981,0.51052819){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{IV~Tube}}}%
+    \put(0.81924664,0.10662235){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{IV~Clip}}}%
+    \put(-0.01999228,0.66530986){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41722824\unitlength}\centering Syringe\\ (20 -- 60~mL)\end{minipage}}}%
+    \put(-0.01429886,0.29730698){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.35332842\unitlength}\centering Needle \& Needle Cover\end{minipage}}}%
   \end{picture}%
 \endgroup
