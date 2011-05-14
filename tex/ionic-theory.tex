@@ -176,7 +176,7 @@ Electrolysis is the use of electricity to drive an otherwise unfavourable electr
 Copper (II) sulphate*, iodine tincture*, ascorbic acid (vitamin C)*, Epsom salt (magnesium sulphate)*, beaker*, 2 carbon electrodes*, connection wire, masking tape, 3 to 6~V power source*, sand paper
 
 \subsubsection*{Preparation}
-\begin{enumerate}
+ \begin{enumerate}
 \item{Prepare a solution of potassium iodide ions in the following way:
 \begin{enumerate}
 \item{Dissolve three crushed tablets of ascorbic acid into about 100 mL of water.}
@@ -280,6 +280,12 @@ When copper (II) sulphate is electrolysed using the carbon electrodes the blue c
 
 \subsection{Faraday's First Law of Electrolysis}
 
+Electrolysis involves the movement of many individual particles. For example, for one \ce{Cu2+} ion to be reduced to on atom of copper metal, exactly two electrons are required. Therefore there is a direct mathematical relationship between the amount of substance discharged at an electrode and the amount of current that passes through the circuit. This relationship is formalized as Faraday's First Law of Electrolysis.
+
+Measuring the amount of metal oxidized at an electrode requires very precise measurements -- this is not possible without a digital balance. However, the volume of gas discharged at an electrode also obeys Faraday's First Law. If the production of hydrogen gas requires two electrons for each molecules of hydrogen gas, then one mole of electrons passed through the circuit will result in a mole of hydrogen gas being produced. At STP, there is a direct relationship between the moles and volume of a gas. Because the volume of a gas may be measured with good precision using simpler materials, this is a viable route to verify Faraday's First Law of Electrolysis.
+
+This activity requires a ammeter to measure electrical current. Sometimes these may be found from the physics department.
+
 \subsubsection*{Learning Objectives}
 \begin{itemize}
 \item{To explain the meaning and significance of Faraday's First Law of Electrolysis.}
@@ -308,7 +314,7 @@ Leave one of the wires unconnected from the ammeter. During the activity you wil
 \item{Tape the burette to the bucket of water (or use a retort stand). Keep the open end under the solution in the beaker! The burette should be pointed almost straight up.}
 \begin{figure}[h!]
 \begin{center}
-\def\svgwidth{150pt}
+\def\svgwidth{350pt}
 \input{./img/electrolysis-2.pdf_tex}
 \caption{Electrolysis of magnesium sulphate to test Faraday's First law}
 \label{faraday-1}
@@ -316,9 +322,19 @@ Leave one of the wires unconnected from the ammeter. During the activity you wil
 \end{figure}
 \item{Connect the remaining wire to the ammeter to complete the circuit and immediately start the stopwatch. Bubbles should form at both electrodes and all gas produced should enter into the burettes for collection.}
 \item{Record the reading on the ammeter and the volume of gas produced at the cathode after every minute for ten minutes.}
+\item{Convert the volume of gas in mL to moles of gas with the relationship $$ n = 22.4 \frac{mole}{dm^{3}} \times 0.001 \frac{dm^{3}}{mL} \times V_{mL} $$}
+\item{Find the moles of electrons that passed through the cell with the relationship $$ n_{e} = \frac{t_{s} \times A_{amps}}{96,500 \frac{Coulombs}{mole}} $$}
 \end{enumerate}
 
 \subsubsection*{Results and Conclusion}
+
+The moles of gas produced and the mole of electrons passed should be related by the stoichiometry of the electrolytic reaction. If the gas is oxygen, for example, four moles of electrons are required for one mole of oxygen gas, according to the equation
+
+\begin{center}
+\ce{4OH- $\longrightarrow$ O2 + 2H2O + 4e-}
+\end{center}
+
+Therefore we expect that the moles of electrons we calculate passing through the circuit should be four times the moles of oxygen we calculate from the volume of oxygen produced. If indeed this ratio is correct, Faraday's First Law has been confirmed.
 
 \subsubsection*{Clean Up Procedure}
 \begin{enumerate}
@@ -354,14 +370,16 @@ Epsom salt (magnesium sulphate)*, water, two burettes (or two syringes and super
 \item{Insert one electrode into each burette.}
 \item{Place your thumb over the open end of one burette. Invert the burette so that the end with the stopcock is pointing up and lower the burette into the beaker. Do not remove your thumb until the open end of the burette it well below the top of the solution in the beaker. The solution in the burette should remain in the burette as long as the stopcock is closed.}
 \item{Tape the burette to the bucket of water. Keep the open end under the solution in the beaker! The burette should be pointed almost straight up.}
-\begin{figure}[h!]
 \begin{center}
-\def\svgwidth{150pt}
+\begin{figure}[h!]
+
+\def\svgwidth{350pt}
 \input{./img/electrolysis-3.pdf_tex}
 \caption{Electrolysis of magnesium sulphate to test Faraday's Second Law}
 \label{faraday-1}
-\end{center}
+
 \end{figure}
+\end{center}
 \item{Repeat the previous two steps for the other burette.}
 \item{Carefully open the stopcock slightly to allow air to enter to the 0 mL mark of the burette. It is not important that the water reaches exactly that mark but record the initial volume of air present in each burette.}
 \end{enumerate}
