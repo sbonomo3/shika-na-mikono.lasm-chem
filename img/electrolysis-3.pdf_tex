@@ -36,13 +36,18 @@
   }
   \providecommand\rotatebox[2]{#2}
   \ifx\svgwidth\undefined
-    \setlength{\unitlength}{785.39729021pt}
+    \setlength{\unitlength}{1087.81704102pt}
   \else
     \setlength{\unitlength}{\svgwidth}
   \fi
   \global\let\svgwidth\undefined
   \makeatother
-  \begin{picture}(1,0.92838536)%
+  \begin{picture}(1,0.76207592)%
     \put(0,0){\includegraphics[width=\unitlength]{electrolysis-3.pdf}}%
+    \put(0.41953735,0.00611891){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Power Supply}}}%
+    \put(0.75876286,0.2101185){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Connecting Wire}}}%
+    \put(0.39645518,0.74063102){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Burettes}}}%
+    \put(0.18722305,0.53154646){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Electrode}}}%
+    \put(-0.0138131,0.09951928){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.28348989\unitlength}\centering Magnesium Sulphate Solution\end{minipage}}}%
   \end{picture}%
 \endgroup
