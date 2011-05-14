@@ -43,6 +43,6 @@
   \global\let\svgwidth\undefined
   \makeatother
   \begin{picture}(1,2.20904447)%
-    \put(0,0){\includegraphics[width=\unitlength]{deflagrating-spoons.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{deflagrating-spoon.pdf}}%
   \end{picture}%
 \endgroup
