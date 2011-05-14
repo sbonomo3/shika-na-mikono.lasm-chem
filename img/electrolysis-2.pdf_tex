@@ -36,19 +36,18 @@
   }
   \providecommand\rotatebox[2]{#2}
   \ifx\svgwidth\undefined
-    \setlength{\unitlength}{1143.99040109pt}
+    \setlength{\unitlength}{978.17880859pt}
   \else
     \setlength{\unitlength}{\svgwidth}
   \fi
   \global\let\svgwidth\undefined
   \makeatother
-  \begin{picture}(1,0.64174758)%
+  \begin{picture}(1,0.81329887)%
     \put(0,0){\includegraphics[width=\unitlength]{electrolysis-2.pdf}}%
-    \put(0.56266307,0.00581845){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Power Supply}}}%
-    \put(0.22930973,0.11413397){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Connecting Wire}}}%
-    \put(0.45073211,0.41121924){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Electrodes}}}%
-    \put(0.59003044,0.6213557){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Burette}}}%
-    \put(0.72146898,0.07347713){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.26814926\unitlength}\raggedright Magnesium Sulphate Solution\end{minipage}}}%
-    \put(0.86945367,0.23100306){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Ammeter}}}%
+    \put(0.50777997,0.00680474){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Power Supply}}}%
+    \put(0.49228698,0.78945034){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Burette}}}%
+    \put(0.73172402,0.12602377){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Connecting Wire}}}%
+    \put(0.57116037,0.55423863){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Electrodes}}}%
+    \put(-0.01611965,0.29767287){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30281746\unitlength}\raggedleft Magnesium Sulphate Solution\end{minipage}}}%
   \end{picture}%
 \endgroup

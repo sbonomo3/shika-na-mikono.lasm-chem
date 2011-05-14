@@ -1,6 +1,6 @@
 %% Creator: Inkscape inkscape 0.48.1, www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
-%% Accompanies image file 'electrolysis-3.pdf' (pdf, eps, ps)
+%% Accompanies image file 'chromatography-alt.pdf' (pdf, eps, ps)
 %%
 %% To include the image in your LaTeX document, write
 %%   \input{<filename>.pdf_tex}
@@ -36,18 +36,17 @@
   }
   \providecommand\rotatebox[2]{#2}
   \ifx\svgwidth\undefined
-    \setlength{\unitlength}{953.47814941pt}
+    \setlength{\unitlength}{868.81118164pt}
   \else
     \setlength{\unitlength}{\svgwidth}
   \fi
   \global\let\svgwidth\undefined
   \makeatother
-  \begin{picture}(1,0.84508323)%
-    \put(0,0){\includegraphics[width=\unitlength]{electrolysis-3.pdf}}%
-    \put(0.50290936,0.00698102){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Power Supply}}}%
-    \put(0.72477411,0.14088888){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Connecting Wire}}}%
-    \put(0.5239123,0.82061688){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Burettes}}}%
-    \put(0.29169671,0.42301937){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Electrodes}}}%
-    \put(-0.01007168,0.24971014){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30420373\unitlength}\raggedleft Magnesium Sulphate Solution\end{minipage}}}%
+  \begin{picture}(1,0.9145963)%
+    \put(0,0){\includegraphics[width=\unitlength]{chromatography-alt.pdf}}%
+    \put(0.37393927,0.8734584){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Filter Paper}}}%
+    \put(0.90274066,0.83136476){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Marker Ink}}}%
+    \put(0.20135531,0.0563155){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Spirit}}}%
+    \put(0.09875204,0.88661266){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Plain Paper}}}%
   \end{picture}%
 \endgroup
