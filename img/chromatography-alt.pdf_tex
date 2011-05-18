@@ -36,17 +36,16 @@
   }
   \providecommand\rotatebox[2]{#2}
   \ifx\svgwidth\undefined
-    \setlength{\unitlength}{868.81118164pt}
+    \setlength{\unitlength}{860.40160445pt}
   \else
     \setlength{\unitlength}{\svgwidth}
   \fi
   \global\let\svgwidth\undefined
   \makeatother
-  \begin{picture}(1,0.9145963)%
+  \begin{picture}(1,0.91025275)%
     \put(0,0){\includegraphics[width=\unitlength]{chromatography-alt.pdf}}%
-    \put(0.37393927,0.8734584){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Filter Paper}}}%
-    \put(0.90274066,0.83136476){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Marker Ink}}}%
-    \put(0.20135531,0.0563155){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Spirit}}}%
-    \put(0.09875204,0.88661266){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Plain Paper}}}%
+    \put(0.36782014,0.88199559){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Filter Paper}}}%
+    \put(0.90179005,0.83949053){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Marker Ink}}}%
+    \put(0.19354935,0.05686593){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Spirit}}}%
   \end{picture}%
 \endgroup
