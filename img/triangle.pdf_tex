@@ -1,0 +1,57 @@
+%% Creator: Inkscape inkscape 0.48.1, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'triangle.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+
+\begingroup
+  \makeatletter
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}
+    \renewcommand\color[2][]{}%
+  }
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}
+    \renewcommand\transparent[1]{}%
+  }
+  \providecommand\rotatebox[2]{#2}
+  \ifx\svgwidth\undefined
+    \setlength{\unitlength}{609.27096558pt}
+  \else
+    \setlength{\unitlength}{\svgwidth}
+  \fi
+  \global\let\svgwidth\undefined
+  \makeatother
+  \begin{picture}(1,0.69399664)%
+    \put(0,0){\includegraphics[width=\unitlength]{triangle.pdf}}%
+    \put(0.47439272,0.65281626){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{GAS}}}%
+    \put(0.15636003,0.07545174){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{SOLID}}}%
+    \put(0.82263639,0.0840803){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{LIQUID}}}%
+    \put(0.48934106,0.01092494){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Freezing}}}%
+    \put(0.49079039,0.18237104){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Melting}}}%
+    \put(0.20775786,0.46926605){\color[rgb]{0,0,0}\rotatebox{60.68718696}{\makebox(0,0)[b]{\smash{Deposition}}}}%
+    \put(0.36013008,0.36678359){\color[rgb]{0,0,0}\rotatebox{62.02531333}{\makebox(0,0)[b]{\smash{Sublimation}}}}%
+    \put(0.72385386,0.47697802){\color[rgb]{0,0,0}\rotatebox{-59.28485476}{\makebox(0,0)[b]{\smash{Condensation}}}}%
+    \put(0.60755849,0.37387147){\color[rgb]{0,0,0}\rotatebox{-60.69163082}{\makebox(0,0)[b]{\smash{Evaporation}}}}%
+  \end{picture}%
+\endgroup

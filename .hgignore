@@ -1,0 +1,9 @@
+syntax:glob
+
+*.aux
+*.synctex.gz
+*.out
+*.toc
+*.log
+*.pdf
+.DS_Store
