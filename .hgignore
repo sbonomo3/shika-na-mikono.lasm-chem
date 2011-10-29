@@ -5,5 +5,5 @@ syntax:glob
 *.out
 *.toc
 *.log
-*.pdf
+lasm-chem.pdf
 .DS_Store
